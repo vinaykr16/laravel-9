@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'f7df995c67ebcfd4301129cebed2457e4b23d547',
+        'reference' => '9e63f165addbe4b3ee868224c32f8bc8cafe116e',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
@@ -376,6 +376,15 @@
                 0 => 'v9.5.1',
             ),
         ),
+        'inertiajs/inertia-laravel' => array(
+            'pretty_version' => 'v0.5.4',
+            'version' => '0.5.4.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../inertiajs/inertia-laravel',
+            'aliases' => array(),
+            'reference' => '6a050ce04a710ac4809161558ac09fe49f13075e',
+            'dev_requirement' => false,
+        ),
         'jaybizzle/crawler-detect' => array(
             'pretty_version' => 'v1.2.111',
             'version' => '1.2.111.0',
@@ -442,7 +451,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'f7df995c67ebcfd4301129cebed2457e4b23d547',
+            'reference' => '9e63f165addbe4b3ee868224c32f8bc8cafe116e',
             'dev_requirement' => false,
         ),
         'laravel/sail' => array(
